@@ -1,1 +1,1 @@
-This is the repository for group project
+This repository is for the printf group project
